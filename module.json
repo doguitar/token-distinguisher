@@ -1,0 +1,32 @@
+{
+  "name": "token-distinguisher",
+  "title": "Token Distinguisher",
+  "description": "Automatically renames tokens to avoid name collisions, ensuring unique and distinguishable names for each token on the game board.",
+  "author": "doguitar",
+  "version": "1.0.0",
+  "minimumCoreVersion": "10.0.0",
+  "compatibleCoreVersion": "10.0.0",
+  "url": "https://github.com/doguitar/token-distinguisher",
+  "manifest": "https://raw.githubusercontent.com/doguitar/token-distinguisher/master/module.json",
+  "download": "https://github.com/doguitar/token-distinguisher/archive/master.zip",
+  "license": "MIT",
+  "bugs": "https://github.com/doguitar/token-distinguisher/issues",
+  "readme": "https://github.com/doguitar/token-distinguisher/blob/master/README.md",
+  "changelog": "https://github.com/doguitar/token-distinguisher/blob/master/CHANGELOG.md",
+  "styles": [],
+  "scripts": [
+    "scripts/token-distinguisher.js"
+  ],
+  "languages": [  ],
+  "esmodules": [],
+  "packs": [],
+  "tags": [
+    "tokens",
+    "names",
+    "collision",
+    "renaming",
+    "utility"
+  ],
+  "system": "",
+  "template": []
+}
